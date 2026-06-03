@@ -1,0 +1,6 @@
+{
+  "name": "She Can Foundation",
+  "description": "A modern, professional, and visually stunning single-page website for the She Can Foundation NGO, showcasing women empowerment, program initiatives, impact statistics, an image gallery, dark/light mode, smooth scroll animations, and an interactive contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
